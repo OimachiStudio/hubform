@@ -1,1 +1,380 @@
-function _0x339a(_0x2b1824,_0x5a9785){const _0x5370eb=_0x5370();return _0x339a=function(_0x339a3d,_0x227d95){_0x339a3d=_0x339a3d-0x1e2;let _0x34ba6a=_0x5370eb[_0x339a3d];return _0x34ba6a;},_0x339a(_0x2b1824,_0x5a9785);}const _0x55c9a0=_0x339a;(function(_0x29f00f,_0x52220b){const _0xce26ca=_0x339a,_0x58a4f5=_0x29f00f();while(!![]){try{const _0x11e761=parseInt(_0xce26ca(0x1fb))/0x1+-parseInt(_0xce26ca(0x1f8))/0x2*(parseInt(_0xce26ca(0x221))/0x3)+parseInt(_0xce26ca(0x222))/0x4*(parseInt(_0xce26ca(0x21f))/0x5)+-parseInt(_0xce26ca(0x213))/0x6+parseInt(_0xce26ca(0x22c))/0x7*(-parseInt(_0xce26ca(0x22a))/0x8)+parseInt(_0xce26ca(0x21d))/0x9+-parseInt(_0xce26ca(0x1f1))/0xa*(parseInt(_0xce26ca(0x220))/0xb);if(_0x11e761===_0x52220b)break;else _0x58a4f5['push'](_0x58a4f5['shift']());}catch(_0xcf31d3){_0x58a4f5['push'](_0x58a4f5['shift']());}}}(_0x5370,0xb4d89));function _0x5370(){const _0x102879=['.modal_wrapper','Escape','search','a[data-modal=\x22true\x22]','translateY(12rem)','toString','delete','hasClass','Hubform\x20script\x20is\x20not\x20licensed\x20for\x20this\x20domain.','open?','get','key','95430OxjEcS','isGated','true','open','transform\x200.8s\x20cubic-bezier(0.33,\x201,\x200.68,\x201),\x20opacity\x200.2s','create','endsWith','51536poAsAm','getElementsByTagName','translateY(0)','1280492IqTfJX','animationType','keydown','transform\x200.6s\x20cubic-bezier(0.18,\x200.89,\x200.32,\x201.28),\x20opacity\x200.3s','height','empty','#hsFormContainer','script','gatedUnlocked','.modal_overlay','searchParams','formID','auto','flex','none','css','opacity','hostname','.webflow.io','hubformConfig','ready','forEach','modal','hubformSettings','5429580AgeeJD','warn','transform\x200.5s\x20cubic-bezier(0.33,\x201,\x200.68,\x201),\x20opacity\x200.3s','startsWith','preventDefault','set','[hf-gated-hide=\x22true\x22]','translateY(8rem)','modal-open','eu1','10241802Bqzycp','scale(1)','5LLQTIF','704nmMEMn','54qDHAZH','2359388zneKAx','pushState','length','hubspot_region','createFormAndOpenModal','scale(0.7)','overflow','closeModal','984SUDsus','style','16394qzUSKO','pointerEvents','click','opacity\x200.5s','data-form-id','a1va2TjlfObm','cookieExpirationDays','openModal','hidden','attr','src','opacity\x200.2s','href','querySelectorAll','location','.modal_component','body','split','transform\x200.6s\x20cubic-bezier(0.6,\x20-0.28,\x200.735,\x200.045),\x20opacity\x200.3s','fade','close'];_0x5370=function(){return _0x102879;};return _0x5370();}const getQueryParam=_0x2cdbfa=>{const _0x201db3=_0x339a,_0x1d0f49=document[_0x201db3(0x1f9)]('script'),_0xdb5774=_0x1d0f49[_0x1d0f49[_0x201db3(0x224)]-0x1][_0x201db3(0x236)];return new URLSearchParams(_0xdb5774[_0x201db3(0x23d)]('?')[0x1])[_0x201db3(0x1ef)](_0x2cdbfa);},hubspot_portalId=getQueryParam('hubspot_portalId'),hubspot_region=getQueryParam(_0x55c9a0(0x225))||_0x55c9a0(0x21c),license_key=getQueryParam(_0x55c9a0(0x1f0)),shouldRunScript=()=>{const _0x1f5e5b=_0x55c9a0;return license_key===_0x1f5e5b(0x231)?!![]:window[_0x1f5e5b(0x23a)][_0x1f5e5b(0x20c)][_0x1f5e5b(0x1f7)](_0x1f5e5b(0x20d));};shouldRunScript()?(window[_0x55c9a0(0x20e)]={'animationType':_0x55c9a0(0x1e3),'gatedId':null,'cookieExpirationDays':0x1e},function(_0x2f2357){const _0x11011d=_0x55c9a0;let _0xaae2e0=null;const _0x197634=_0x581ba7=>{const _0xceb2d1=_0x339a,_0x33f307=document[_0xceb2d1(0x1f9)](_0xceb2d1(0x202)),_0x4cbfb9=_0x33f307[_0x33f307[_0xceb2d1(0x224)]-0x1][_0xceb2d1(0x236)];return new URLSearchParams(_0x4cbfb9[_0xceb2d1(0x23d)]('?')[0x1])[_0xceb2d1(0x1ef)](_0x581ba7);},_0x274e23=_0x448f51=>{const _0x28711e=_0x339a,_0x180dfd=new URLSearchParams(_0x2f2357['location'][_0x28711e(0x1e7)]);return _0x180dfd['get'](_0x448f51)||'';},_0x1a3ef8=_0x197634('hubspot_portalId'),_0x3f767e=_0x197634(_0x11011d(0x225))||_0x11011d(0x21c),_0x2f14da=(_0x48aa4e,_0x4a8877)=>{const _0x3eb3a5=_0x11011d;$('#hsFormContainer')[_0x3eb3a5(0x200)](),_0xaae2e0=_0x48aa4e,hbspt?.['forms']?.[_0x3eb3a5(0x1f6)]({'region':_0x3f767e,'portalId':_0x1a3ef8,'formId':_0x48aa4e,'target':_0x3eb3a5(0x201),'onFormSubmit':_0x4a8877,'onFormSubmitted':()=>{_0x11227a();}});},_0x128224=$(_0x11011d(0x23b)),_0x2e2aa6=$(_0x11011d(0x1e5)),_0x4432f4=$(_0x11011d(0x204)),_0x341cc2={'fade':{'open':()=>{const _0x5e3fd7=_0x11011d;_0x2e2aa6[_0x5e3fd7(0x20a)]({'opacity':'0'}),_0x4432f4[_0x5e3fd7(0x20a)]({'opacity':'0'}),setTimeout(()=>{const _0x6cda17=_0x5e3fd7;_0x2e2aa6[_0x6cda17(0x20a)]({'opacity':'1','transition':_0x6cda17(0x237)}),_0x4432f4[_0x6cda17(0x20a)]({'opacity':'1','transition':'opacity\x200.5s'});},0xa);},'close':()=>{const _0x52bcbb=_0x11011d;return _0x2e2aa6[_0x52bcbb(0x20a)]({'opacity':'0','transition':'opacity\x200.2s'}),_0x4432f4['css']({'opacity':'0','transition':_0x52bcbb(0x22f)}),0x1f4;}},'moveUp':{'open':()=>{const _0x5c8b23=_0x11011d;_0x2e2aa6['css']({'transform':_0x5c8b23(0x21a),'opacity':'0'}),_0x4432f4[_0x5c8b23(0x20a)]({'opacity':'0'}),setTimeout(()=>{const _0x2f4083=_0x5c8b23;_0x2e2aa6[_0x2f4083(0x20a)]({'transform':'translateY(0)','opacity':'1','transition':'transform\x200.8s\x20cubic-bezier(0.33,\x201,\x200.68,\x201),\x20opacity\x200.2s'}),_0x4432f4[_0x2f4083(0x20a)]({'opacity':'1','transition':_0x2f4083(0x22f)});},0xa);},'close':()=>{const _0x2cccd5=_0x11011d;return _0x2e2aa6[_0x2cccd5(0x20a)]({'transform':_0x2cccd5(0x1fa),'opacity':'1','transition':_0x2cccd5(0x1f5)}),_0x4432f4[_0x2cccd5(0x20a)]({'opacity':'1'}),setTimeout(()=>{const _0xd91117=_0x2cccd5;_0x2e2aa6['css']({'transform':_0xd91117(0x21a),'opacity':'0'}),_0x4432f4['css']({'opacity':'0','transition':_0xd91117(0x22f)});},0xa),0x320;}},'scaleUp':{'open':()=>{const _0x4de601=_0x11011d;_0x2e2aa6['css']({'transform':_0x4de601(0x227),'opacity':'0'}),_0x4432f4[_0x4de601(0x20a)]({'opacity':'0'}),setTimeout(()=>{const _0x25d6fd=_0x4de601;_0x2e2aa6['css']({'transform':_0x25d6fd(0x21e),'opacity':'1','transition':_0x25d6fd(0x215)}),_0x4432f4['css']({'opacity':'1','transition':_0x25d6fd(0x22f)});},0xa);},'close':()=>{const _0xfe2933=_0x11011d;return _0x2e2aa6[_0xfe2933(0x20a)]({'transform':_0xfe2933(0x227),'opacity':'0','transition':_0xfe2933(0x215)}),_0x4432f4['css']({'opacity':'0','transition':_0xfe2933(0x22f)}),0x1f4;}},'bounceUp':{'open':()=>{const _0x7eb83a=_0x11011d;_0x2e2aa6[_0x7eb83a(0x20a)]({'transform':_0x7eb83a(0x1e9),'opacity':'0'}),_0x4432f4[_0x7eb83a(0x20a)]({'opacity':'0'}),setTimeout(()=>{const _0x5884d0=_0x7eb83a;_0x2e2aa6[_0x5884d0(0x20a)]({'transform':_0x5884d0(0x1fa),'opacity':'1','transition':_0x5884d0(0x1fe)}),_0x4432f4[_0x5884d0(0x20a)]({'opacity':'1','transition':_0x5884d0(0x22f)});},0xa);},'close':()=>{const _0xb907f2=_0x11011d;return _0x2e2aa6[_0xb907f2(0x20a)]({'transform':_0xb907f2(0x1e9),'opacity':'0','transition':_0xb907f2(0x1e2)}),_0x4432f4[_0xb907f2(0x20a)]({'opacity':'0','transition':_0xb907f2(0x22f)}),0x258;}}},_0xc756a2=(_0x250704,_0x4076a9=_0x2f2357['hubformConfig']['animationType'])=>{const _0x5beb33=_0x11011d,_0x46ba2d=_0x341cc2[_0x4076a9]||_0x341cc2[_0x5beb33(0x1e3)];if(_0x250704==='open')_0x128224[_0x5beb33(0x20a)]({'display':_0x5beb33(0x208),'opacity':'1'}),_0x46ba2d['open']();else{if(_0x250704===_0x5beb33(0x1e4))return new Promise(_0x354072=>{const _0x1cc42a=_0x46ba2d['close']();setTimeout(()=>{const _0x1604e5=_0x339a;_0x128224[_0x1604e5(0x20a)]({'display':'none','opacity':'','transition':''}),_0x2e2aa6[_0x1604e5(0x20a)]({'transform':'','opacity':'','transition':''}),_0x4432f4['css']({'opacity':'','transition':''}),_0x354072();},_0x1cc42a);});}},_0x3b162a=(_0x3d717a,_0x50bf2e=_0x2f2357[_0x11011d(0x20e)][_0x11011d(0x1fc)])=>{const _0x360a1a=_0x11011d;$('body')['addClass'](_0x360a1a(0x21b))[_0x360a1a(0x20a)](_0x360a1a(0x228),_0x360a1a(0x234));const _0x4d8d75=new URL(_0x2f2357[_0x360a1a(0x23a)]['href']);_0x4d8d75['searchParams'][_0x360a1a(0x218)](_0x360a1a(0x211),_0x360a1a(0x1f4));if(_0x3d717a)_0x4d8d75[_0x360a1a(0x205)][_0x360a1a(0x218)](_0x360a1a(0x206),_0x3d717a);history[_0x360a1a(0x223)]({},'',_0x4d8d75[_0x360a1a(0x1ea)]()),_0xc756a2(_0x360a1a(0x1f4),_0x50bf2e);},_0x50dbec=async(_0x186f63=_0x2f2357[_0x11011d(0x20e)]['animationType'])=>{const _0x3f09d7=_0x11011d;await _0xc756a2(_0x3f09d7(0x1e4),_0x186f63),$(_0x3f09d7(0x23c))['removeClass'](_0x3f09d7(0x21b))[_0x3f09d7(0x20a)](_0x3f09d7(0x228),'');const _0xf4f2eb=new URL(_0x2f2357['location'][_0x3f09d7(0x238)]);_0xf4f2eb[_0x3f09d7(0x205)][_0x3f09d7(0x1eb)]('modal'),_0xf4f2eb[_0x3f09d7(0x205)][_0x3f09d7(0x1eb)](_0x3f09d7(0x206)),history[_0x3f09d7(0x223)]({},'',_0xf4f2eb[_0x3f09d7(0x1ea)]());};function _0x105dd0(){const _0x3595e2=_0x11011d;Cookies[_0x3595e2(0x1ef)](_0x3595e2(0x203))==='true'&&(document['querySelectorAll']('.hf-gated')['forEach'](_0x1f4a45=>{const _0x364c1b=_0x3595e2;_0x1f4a45[_0x364c1b(0x22b)][_0x364c1b(0x1ff)]=_0x364c1b(0x207),_0x1f4a45['style'][_0x364c1b(0x22d)]=_0x364c1b(0x207),_0x1f4a45['style'][_0x364c1b(0x20b)]='100%';}),document[_0x3595e2(0x239)](_0x3595e2(0x219))[_0x3595e2(0x210)](_0x47de5d=>{const _0x608ed0=_0x3595e2;_0x47de5d['style']['display']=_0x608ed0(0x209);}));}const _0x11227a=()=>{const _0x142be6=_0x11011d;_0x2f2357[_0x142be6(0x20e)]['gatedId']&&_0xaae2e0===_0x2f2357[_0x142be6(0x20e)]['gatedId']&&(Cookies[_0x142be6(0x218)]('gatedUnlocked',_0x142be6(0x1f3),{'expires':_0x2f2357[_0x142be6(0x20e)][_0x142be6(0x232)]}),_0x2f2357[_0x142be6(0x1f2)]=![],_0x105dd0());},_0x32f02b=_0x37844e=>{_0x2f14da(_0x37844e,_0x11227a),_0x3b162a(_0x37844e);},_0x295e5b=()=>{const _0xc8a5fa=_0x11011d,_0x54d908=_0x274e23(_0xc8a5fa(0x211)),_0x162c95=_0x274e23(_0xc8a5fa(0x206));(_0x54d908===_0xc8a5fa(0x1f4)||_0x54d908[_0xc8a5fa(0x216)](_0xc8a5fa(0x1ee)))&&_0x162c95&&_0x32f02b(_0x162c95);},_0x5b377c=()=>{const _0x268450=_0x11011d;$(document)['on'](_0x268450(0x22e),_0x268450(0x1e8),function(_0xe2152){const _0x4f0772=_0x268450;_0xe2152[_0x4f0772(0x217)]();const _0x50b951=$(this)[_0x4f0772(0x235)](_0x4f0772(0x230));if(_0x50b951)_0x32f02b(_0x50b951);}),$(document)['on'](_0x268450(0x22e),'.modal_close-button,\x20.modal-overlay',()=>_0x50dbec()),$(document)['on'](_0x268450(0x1fd),_0x42e699=>{const _0x3037e1=_0x268450;if(_0x42e699[_0x3037e1(0x1f0)]===_0x3037e1(0x1e6)&&$('body')[_0x3037e1(0x1ec)](_0x3037e1(0x21b)))_0x50dbec();});};$(document)[_0x11011d(0x20f)](()=>{_0x295e5b(),_0x5b377c();}),_0x2f2357[_0x11011d(0x233)]=_0x3b162a,_0x2f2357[_0x11011d(0x229)]=_0x50dbec,_0x2f2357[_0x11011d(0x226)]=_0x32f02b;}(window),window[_0x55c9a0(0x212)]=function(_0x1c74f0){const _0xe0849d=_0x55c9a0;window['hubformConfig']={...window[_0xe0849d(0x20e)],..._0x1c74f0},_0xe0849d(0x232)in _0x1c74f0&&Cookies['get'](_0xe0849d(0x203))&&Cookies[_0xe0849d(0x218)](_0xe0849d(0x203),_0xe0849d(0x1f3),{'expires':window[_0xe0849d(0x20e)][_0xe0849d(0x232)]});}):console[_0x55c9a0(0x214)](_0x55c9a0(0x1ed));
+// Parse the 'key' parameter along with existing parameters
+const getQueryParam = (param) => {
+  const scripts = document.getElementsByTagName("script");
+  const src = scripts[scripts.length - 1].src;
+  return new URLSearchParams(src.split("?")[1]).get(param);
+};
+
+const hubspot_portalId = getQueryParam("hubspot_portalId");
+const hubspot_region = getQueryParam("hubspot_region") || "eu1";
+const license_key = getQueryParam("key");
+let isGatedPage;
+
+// Check if the script should run based on domain and license key
+const shouldRunScript = () => {
+  if (license_key === "a1va2TjlfObm") {
+    return true; // Licensed version, run on any domain
+  } else {
+    return window.location.hostname.endsWith(".webflow.io"); // Free version, only on Webflow domains
+  }
+};
+
+if (shouldRunScript()) {
+  // Declare global variables
+  window.hubformConfig = {
+    animationType: "fade",
+    gatedId: null,
+    cookieExpirationDays: 30,
+  };
+
+  (function (window) {
+    // Add a variable to store the current form ID
+    let currentFormId = null;
+
+    //==============================================================
+    // 1. UTILITY FUNCTIONS
+    //==============================================================
+
+    // Extracts a query parameter from the script tag's src attribute
+    const getQueryParam = (param) => {
+      const scripts = document.getElementsByTagName("script");
+      const src = scripts[scripts.length - 1].src;
+      return new URLSearchParams(src.split("?")[1]).get(param);
+    };
+
+    // Retrieves a parameter from the current page's URL
+    const getUrlParameter = (name) => {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name) || "";
+    };
+
+    // Check if gating should be active
+    function isGatingActive() {
+      return typeof isGatedPage === "undefined" || isGatedPage === true;
+    }
+
+    // Function to initialize the display of gated elements
+    function initializeGatedElementsDisplay() {
+      document.querySelectorAll('[hf-gated="hide"]').forEach((el) => {
+        const customDisplay = el.getAttribute("hf-gated-display");
+        if (customDisplay) {
+          el.style.display = customDisplay;
+        } else {
+          el.style.display = "block"; // Default to block if no custom display is set
+        }
+      });
+    }
+
+    //==============================================================
+    // 2. HUBSPOT INTEGRATION
+    //==============================================================
+
+    // Get HubSpot configuration from script tag
+    const hubspot_portalId = getQueryParam("hubspot_portalId");
+    const hubspot_region = getQueryParam("hubspot_region") || "eu1";
+
+    // Creates a HubSpot form with the given formId and submission callback
+    const createHubSpotForm = (formId, onSubmitCallback) => {
+      $("#hsFormContainer").empty();
+      currentFormId = formId;
+      hbspt?.forms?.create({
+        region: hubspot_region,
+        portalId: hubspot_portalId,
+        formId: formId,
+        target: "#hsFormContainer",
+        onFormSubmit: onSubmitCallback,
+        onFormSubmitted: () => {
+          handleFormSubmission();
+        },
+      });
+    };
+
+    //==============================================================
+    // 3. MODAL FUNCTIONALITY
+    //==============================================================
+
+    const modal = $(".modal_component");
+    const modalWrapper = $(".modal_wrapper");
+    const modalOverlay = $(".modal_overlay");
+
+    const animations = {
+      fade: {
+        open: () => {
+          modalWrapper.css({ opacity: "0" });
+          modalOverlay.css({ opacity: "0" });
+          setTimeout(() => {
+            modalWrapper.css({ opacity: "1", transition: "opacity 0.2s" });
+            modalOverlay.css({ opacity: "1", transition: "opacity 0.5s" });
+          }, 10);
+        },
+        close: () => {
+          modalWrapper.css({ opacity: "0", transition: "opacity 0.2s" });
+          modalOverlay.css({ opacity: "0", transition: "opacity 0.5s" });
+          return 500; // Animation duration
+        },
+      },
+      moveUp: {
+        open: () => {
+          modalWrapper.css({ transform: "translateY(8rem)", opacity: "0" });
+          modalOverlay.css({ opacity: "0" });
+          setTimeout(() => {
+            modalWrapper.css({
+              transform: "translateY(0)",
+              opacity: "1",
+              transition:
+                "transform 0.8s cubic-bezier(0.33, 1, 0.68, 1), opacity 0.2s",
+            });
+            modalOverlay.css({ opacity: "1", transition: "opacity 0.5s" });
+          }, 10);
+        },
+        close: () => {
+          modalWrapper.css({
+            transform: "translateY(0)",
+            opacity: "1",
+            transition:
+              "transform 0.8s cubic-bezier(0.33, 1, 0.68, 1), opacity 0.2s",
+          });
+          modalOverlay.css({ opacity: "1" });
+
+          setTimeout(() => {
+            modalWrapper.css({
+              transform: "translateY(8rem)",
+              opacity: "0",
+            });
+            modalOverlay.css({ opacity: "0", transition: "opacity 0.5s" });
+          }, 10);
+
+          return 800; // Animation duration
+        },
+      },
+      scaleUp: {
+        open: () => {
+          modalWrapper.css({ transform: "scale(0.7)", opacity: "0" });
+          modalOverlay.css({ opacity: "0" });
+          setTimeout(() => {
+            modalWrapper.css({
+              transform: "scale(1)",
+              opacity: "1",
+              transition:
+                "transform 0.5s cubic-bezier(0.33, 1, 0.68, 1), opacity 0.3s",
+            });
+            modalOverlay.css({ opacity: "1", transition: "opacity 0.5s" });
+          }, 10);
+        },
+        close: () => {
+          modalWrapper.css({
+            transform: "scale(0.7)",
+            opacity: "0",
+            transition:
+              "transform 0.5s cubic-bezier(0.33, 1, 0.68, 1), opacity 0.3s",
+          });
+          modalOverlay.css({ opacity: "0", transition: "opacity 0.5s" });
+          return 500; // Animation duration
+        },
+      },
+      bounceUp: {
+        open: () => {
+          modalWrapper.css({ transform: "translateY(12rem)", opacity: "0" });
+          modalOverlay.css({ opacity: "0" });
+          setTimeout(() => {
+            modalWrapper.css({
+              transform: "translateY(0)",
+              opacity: "1",
+              transition:
+                "transform 0.6s cubic-bezier(0.18, 0.89, 0.32, 1.28), opacity 0.3s",
+            });
+            modalOverlay.css({ opacity: "1", transition: "opacity 0.5s" });
+          }, 10);
+        },
+        close: () => {
+          modalWrapper.css({
+            transform: "translateY(12rem)",
+            opacity: "0",
+            transition:
+              "transform 0.6s cubic-bezier(0.6, -0.28, 0.735, 0.045), opacity 0.3s",
+          });
+          modalOverlay.css({ opacity: "0", transition: "opacity 0.5s" });
+          return 600; // Animation duration
+        },
+      },
+    };
+
+    const animateModal = (
+      action,
+      type = window.hubformConfig.animationType
+    ) => {
+      const animationSet = animations[type] || animations.fade;
+      if (action === "open") {
+        modal.css({ display: "flex", opacity: "1" });
+        animationSet.open();
+      } else if (action === "close") {
+        return new Promise((resolve) => {
+          const duration = animationSet.close();
+          setTimeout(() => {
+            modal.css({ display: "none", opacity: "", transition: "" });
+            modalWrapper.css({ transform: "", opacity: "", transition: "" });
+            modalOverlay.css({ opacity: "", transition: "" });
+            resolve();
+          }, duration);
+        });
+      }
+    };
+
+    const openModal = (
+      formId,
+      animationType = window.hubformConfig.animationType
+    ) => {
+      $("body").addClass("modal-open").css("overflow", "hidden");
+      const currentUrl = new URL(window.location.href);
+      currentUrl.searchParams.set("modal", "open");
+      if (formId) currentUrl.searchParams.set("formID", formId);
+      history.pushState({}, "", currentUrl.toString());
+      animateModal("open", animationType);
+    };
+
+    const closeModal = async (
+      animationType = window.hubformConfig.animationType
+    ) => {
+      await animateModal("close", animationType);
+      $("body").removeClass("modal-open").css("overflow", "");
+      const currentUrl = new URL(window.location.href);
+      currentUrl.searchParams.delete("modal");
+      currentUrl.searchParams.delete("formID");
+      history.pushState({}, "", currentUrl.toString());
+    };
+
+    //==============================================================
+    // 4. FORM SUBMISSION HANDLING / COOKIES
+    //==============================================================
+
+    // Function to unlock gated content
+    function unlockGatedContent() {
+      const accessGranted = Cookies.get("gatedUnlocked") === "true";
+      const gatingActive = isGatingActive();
+
+      if (!gatingActive || accessGranted) {
+        // Handle elements with hf-gated="hide"
+        document.querySelectorAll('[hf-gated="hide"]').forEach((el) => {
+          el.style.display = "none";
+        });
+
+        // Handle elements with hf-gated="wrapper"
+        document.querySelectorAll('[hf-gated="wrapper"]').forEach((el) => {
+          el.classList.remove("hf-gated");
+        });
+      } else {
+        // If gating is active and access is not granted
+        document.querySelectorAll('[hf-gated="hide"]').forEach((el) => {
+          const customDisplay = el.getAttribute("hf-gated-display");
+          if (customDisplay) {
+            el.style.display = customDisplay;
+          } else {
+            el.style.display = "block"; // Default to block if no custom display is set
+          }
+        });
+
+        document.querySelectorAll('[hf-gated="wrapper"]').forEach((el) => {
+          el.classList.add("hf-gated");
+        });
+      }
+    }
+
+    // Handles actions after successful form submission
+    const handleFormSubmission = () => {
+      if (
+        isGatingActive() &&
+        window.hubformConfig.gatedId &&
+        currentFormId === window.hubformConfig.gatedId
+      ) {
+        Cookies.set("gatedUnlocked", "true", {
+          expires: window.hubformConfig.cookieExpirationDays,
+        });
+        unlockGatedContent();
+      }
+    };
+
+    //==============================================================
+    // 5. MAIN FUNCTIONALITY
+    //==============================================================
+
+    // Creates a HubSpot form and opens the modal
+    const createFormAndOpenModal = (formId, animationType) => {
+      createHubSpotForm(formId, handleFormSubmission);
+      openModal(formId, animationType);
+    };
+
+    // Initializes the form and modal based on URL parameters
+    const initializeFromUrl = () => {
+      const modalOpen = getUrlParameter("modal");
+      const formID = getUrlParameter("formID");
+
+      if ((modalOpen === "open" || modalOpen.startsWith("open?")) && formID) {
+        createFormAndOpenModal(formID);
+      }
+    };
+
+    //==============================================================
+    // 6. EVENT LISTENERS
+    //==============================================================
+
+    // Sets up all necessary event listeners
+    const setupEventListeners = () => {
+      // Handle modal trigger clicks
+      $(document).on("click", '[hf-modal="true"]', function (e) {
+        e.preventDefault();
+        const formId = $(this).attr("hf-form-id");
+        const animationType =
+          $(this).attr("hf-animation") || window.hubformConfig.animationType;
+        if (formId) createFormAndOpenModal(formId, animationType);
+      });
+
+      // Handle modal close actions
+      $(document).on("click", ".modal_close-button, .modal_overlay", () =>
+        closeModal()
+      );
+
+      // Handle Escape key press
+      $(document).on("keydown", (event) => {
+        if (event.key === "Escape" && $("body").hasClass("modal-open"))
+          closeModal();
+      });
+    };
+
+    //==============================================================
+    // 7. INITIALIZATION
+    //==============================================================
+
+    // Run initialization when DOM is ready
+    $(document).ready(() => {
+      initializeFromUrl();
+      setupEventListeners();
+      initializeGatedElementsDisplay();
+      unlockGatedContent();
+    });
+
+    // Expose necessary functions to the global scope
+    window.openModal = openModal;
+    window.closeModal = closeModal;
+    window.createFormAndOpenModal = createFormAndOpenModal;
+  })(window);
+
+  // Enhanced function to update hubform settings
+  window.hubformSettings = function (settings) {
+    window.hubformConfig = { ...window.hubformConfig, ...settings };
+
+    // If cookieExpirationDays is updated and gatedUnlocked cookie exists, update its expiration
+    if ("cookieExpirationDays" in settings && Cookies.get("gatedUnlocked")) {
+      Cookies.set("gatedUnlocked", "true", {
+        expires: window.hubformConfig.cookieExpirationDays,
+      });
+    }
+  };
+} else {
+  console.warn("Hubform script is not licensed for this domain.");
+}
+
+// Allow setting isGatedPage dynamically on CMS pages
+window.setGatedPage = function (value) {
+  isGatedPage = value;
+  unlockGatedContent(); // Re-evaluate gating when the value changes
+};
